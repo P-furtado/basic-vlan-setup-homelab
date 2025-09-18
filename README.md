@@ -1,4 +1,7 @@
 # Basic VLAN Setup Homelab
+## Download Packet Tracer Lab
+[Download Part 4: Basic VLAN Configuration](Basic%20Vlan%20Config.pkt)
+
 ## Objectives
 - To set up an office network with four VLANs: one for regular office staff, one for HR,
  one for IT and one for VoIP (Voice over IP) devices like IP phones. A core switch will
